@@ -1,0 +1,20 @@
+* {
+    background-color: #EB455F;
+}
+
+h1, h2, h3 {
+    color: #BAD7E9;
+    background-color: #FCFFE7;
+}
+
+span {
+    color: #BAD7E9;
+}
+
+#list2 {
+    color: #2B3467;
+}
+
+.mark {
+    background-color: #2B3467;
+}
